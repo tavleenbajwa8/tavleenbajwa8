@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tavleenbajwa8
-- 👀 I’m interested in BioPython
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on BioPython and Bioinformatics projects
+- 👋 Tavleen Bajwa
+- 👀 Currently studying Big data in Biology at Institute of Bioinformatics & Applied Biotechnology and IIIT-Bangalore
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on BioPython and Bioinformatics projects involving RNA-Seq and Genomic data analysis.
 - 📫 How to reach me: Mail me at tavleenbajwa8@gmail.com 
 
 <!---
