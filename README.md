@@ -1,5 +1,6 @@
 - 👋 Tavleen Bajwa
-- 👀 Studying Big data in Biology at the Institute of Bioinformatics & Applied Biotechnology and IIIT-Bangalore
+- Bioinformatics Analyst (Data Engineering Group) @MedGenome
+- 👀 Studied Big data in Biology at IIIT-Bangalore & IBAB
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Python and Bioinformatics projects involving Data Science and Genomic data analysis.
 - 📫 How to reach me: Mail me at tavleenbajwa8@gmail.com 
