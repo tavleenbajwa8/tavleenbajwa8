@@ -1,5 +1,5 @@
 - 👋 Tavleen Bajwa
-- Bioinformatics Analyst (Data Engineering Group) @MedGenome
+- Software Engineer @InventHealth
 - 👀 Studied Big data in Biology at IIIT-Bangalore & IBAB
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Python and Bioinformatics projects involving Data Science and Genomic data analysis.
