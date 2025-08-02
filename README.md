@@ -1,8 +1,8 @@
 - 👋 Tavleen Bajwa
 - Software Engineer @InventHealth
-- 👀 Studied Big data in Biology at IIIT-Bangalore & IBAB
+- 👀 Studied at IIIT-Bangalore
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on Python and Bioinformatics projects involving Data Science and Genomic data analysis.
+- 💞️ I’m looking to collaborate in AI projects involving LangGraphs, LangChains, RAGs, AgenticAI, Vector DB
 - 📫 How to reach me: Mail me at tavleenbajwa8@gmail.com 
 
 <!---
